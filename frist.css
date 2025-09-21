@@ -84,3 +84,44 @@
    
     
 }
+.store{
+    display: flex;
+    gap: 80px;
+    padding-top: 70px;
+    
+}
+.img-store{
+    height: 597px;
+    width: 540px;
+    padding-left: 80px;
+    
+}
+
+
+.img-soto{
+    position: absolute;
+    height: 286px;
+    width: 286px;
+    top: -130px;
+    left: 300px;
+    z-index: 10;
+
+}
+
+
+.img-container{
+position: relative;
+display: inline-block;
+
+
+}
+
+.store-master{
+    padding-left: 40px;
+}
+.text-store{
+    font-size: 70px;
+}
+.text-s{
+    font-size:20px ;
+}
