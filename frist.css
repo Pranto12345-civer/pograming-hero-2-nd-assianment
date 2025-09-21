@@ -34,6 +34,7 @@
 .always{
     display: flex;
    padding-top: 50px;
+   justify-content: center;
     
 }
 .text-2{
